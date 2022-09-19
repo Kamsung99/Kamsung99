@@ -3,7 +3,6 @@
 <a href="mailto:hyun755088@gmail.com" target="_blank"><img src="https://img.shields.io/badge/hyun755088@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
    
-   
 👋  Hi there! I'm a college student dreaming of becoming an <b>AI developer.</b>🚀   
    
 I have experience in big data projects in Korean public institutions.   
