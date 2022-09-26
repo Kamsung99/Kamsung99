@@ -8,7 +8,7 @@
 I have experience in big data projects in Korean public institutions.   
 Through that experience, I learned how to define a problem for an issue, how to plan a project, and I have experience working on a project based on this.   
    
-I like to sleep and listen to music.. ⛰  
+I like to sleep and listen to music..
 I hope that my efforts will constantly improve me. ✨   
 
 ### 💪 Skills   
