@@ -4,11 +4,12 @@
 
    
 👋  Hi there! I'm a college student dreaming of becoming an <b>AI developer.</b>🚀   
-   
+
 I have experience in big data projects in Korean public institutions.   
-Through that experience, I learned how to define a problem for an issue, how to plan a project, and I have experience working on a project based on this.   
+Through that experience, I learned how to define a problem for an issue, how to plan a project, and I have experience working on a project based on this.
+I'm currently studying reinforcement learning.
 
 ### 💪 Skills   
 Platforms & Languages
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/java-EA7E20?style=-square&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/c-00599C?style=-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/c++-00599C?style=-square&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>> <img src="https://img.shields.io/badge/python-3776AB?style=-square&logo=python&logoColor=white">
