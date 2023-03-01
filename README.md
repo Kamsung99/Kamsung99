@@ -13,4 +13,4 @@ I'm currently studying reinforcement learning.
 ### 💪 Skills   
 Platforms & Languages
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>> <img src="https://img.shields.io/badge/python-3776AB?style=-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=-square&logo=python&logoColor=white">
