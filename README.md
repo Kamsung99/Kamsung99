@@ -1,5 +1,4 @@
 ### Hi there 👋
-<a href="https://www.instagram.com/kamsung99/" target="https://www.instagram.com/kamsung99/"><img src="https://img.shields.io/badge/Kamsung99-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:hyun755088@gmail.com" target="mailto:hyun755088@gmail.com"><img src="https://img.shields.io/badge/hyun755088@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://velog.io/@kamsung99" target="https://velog.io/@kamsung99"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 
